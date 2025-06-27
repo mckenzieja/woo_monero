@@ -1,0 +1,12 @@
+*.xml
+*.iml
+
+# Emacs
+*~
+\#*
+.\#*
+
+# Migration documentation (temporary files)
+MIGRATION_PLAN.md
+MIGRATION_SUMMARY.md
+MIGRATION_TESTING.md
